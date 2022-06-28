@@ -1,3 +1,4 @@
+- ### Sobre mim
 - 👋 Oiii, eu sou @LC231A
 - 👀 Eu estou interessada em programação
 - 🌱 Eu estou aprendendo programação no Scratch e JavaScript
