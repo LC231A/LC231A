@@ -1,8 +1,7 @@
 - ### Sobre mim
 - 👋 Oiii, eu sou @LC231A
-- 👀 Eu estou interessada em programação
-- 🌱 Eu estou aprendendo programação no Scratch e JavaScript
--  Sou iniciante XD 
+- 🌱 Eu estou aprendendo programação com HTML e CSS
+-  Sou iniciante
 - 📫 E-mail para contato: laura.canzi@escola.pr.gov.br
 
 <!---
